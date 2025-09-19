@@ -1,0 +1,5 @@
+{
+  "name": "AquaFlow Water Billing",
+  "description": "A comprehensive water billing system to manage customers, meters, readings, and generate bills automatically. It provides a clean dashboard to track all water management activities.",
+  "requestFramePermissions": []
+}
